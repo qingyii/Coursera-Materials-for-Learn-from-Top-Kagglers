@@ -7,6 +7,6 @@ week2: EDA(exploratory data analysis) & validation & data leak
 
 week3: metrics & mean-encoding
 
-week4: advanced features & hyperparameter optimization & ensembles
+week4: advanced features & hyperparameter optimization 
 
-week5: final project
+week5: ensembles
